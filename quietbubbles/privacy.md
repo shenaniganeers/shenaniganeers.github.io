@@ -30,7 +30,7 @@ The game saves your progress locally so you can pick up where you left off: your
 
 ## In-App Purchases
 
-QuietBubbles offers optional one-time purchases (Remove Ads Forever, and appearance-only skin packs) handled entirely by Apple through the App Store. We never see or store your payment details. Apple processes the transaction and tells the app only whether you own a given product.
+QuietBubbles offers optional one-time purchases (Remove Ads Forever, appearance-only skin packs, and expansion packs of additional puzzles) handled entirely by Apple through the App Store. We never see or store your payment details. Apple processes the transaction and tells the app only whether you own a given product.
 
 ## Third-Party Services
 
