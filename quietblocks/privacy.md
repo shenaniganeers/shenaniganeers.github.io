@@ -1,16 +1,16 @@
-# QuietBlocks Privacy Policy
+# Block Puzzle, Quietly Privacy Policy
 
 **Last updated: October 2, 2026**
 
-QuietBlocks is made by Shenaniganeers ("we", "us", or "our"). We built this game to collect as little as possible about you. This page explains exactly what that means.
+Block Puzzle, Quietly (QuietBlocks on your home screen) is made by Shenaniganeers ("we", "us", or "our"). We built this game to collect as little as possible about you. This page explains exactly what that means.
 
 ## What We Collect
 
-We collect nothing ourselves. QuietBlocks has no accounts, no login, and no sign-up. We do not collect your name, email, location, contacts, or photos, and we run no analytics or tracking service of our own. We do not track you across other apps or websites, and the game never asks for permission to.
+We collect nothing ourselves. Block Puzzle, Quietly has no accounts, no login, and no sign-up. We do not collect your name, email, location, contacts, or photos, and we run no analytics or tracking service of our own. We do not track you across other apps or websites, and the game never asks for permission to.
 
 ## Advertising
 
-Unless you buy Remove Ads Forever, QuietBlocks shows one small banner ad below the play area, supplied by Google AdMob. We ask Google for **non-personalized ads only**: ads chosen from the context of the app and your general location, not from a profile of you. We never give Google access to your device's advertising identifier, and the ads are limited to general-audience content.
+Unless you buy Remove Ads Forever, Block Puzzle, Quietly shows one small banner ad below the play area, supplied by Google AdMob. We ask Google for **non-personalized ads only**: ads chosen from the context of the app and your general location, not from a profile of you. We never give Google access to your device's advertising identifier, and the ads are limited to general-audience content.
 
 To serve and measure the banner, Google's software receives:
 - Your IP address, used to estimate a general location
@@ -26,7 +26,7 @@ The game saves a few things locally: your best score, your settings and selected
 
 ## In-App Purchases
 
-QuietBlocks offers optional one-time purchases (Remove Ads Forever, appearance-only theme packs, and expansion packs of additional game content) handled entirely by Apple through the App Store. We never see or store your payment details. Apple processes the transaction and tells the app only whether you own a given product.
+Block Puzzle, Quietly offers optional one-time purchases (Remove Ads Forever, appearance-only theme packs, and expansion packs of additional game content) handled entirely by Apple through the App Store. We never see or store your payment details. Apple processes the transaction and tells the app only whether you own a given product.
 
 ## Third-Party Services
 
@@ -35,7 +35,7 @@ QuietBlocks offers optional one-time purchases (Remove Ads Forever, appearance-o
 
 ## Children's Privacy
 
-QuietBlocks is rated 4+. The banner is restricted to general-audience ads, and ads are never personalized. We do not knowingly collect personal information from children under 13.
+Block Puzzle, Quietly is rated 4+. The banner is restricted to general-audience ads, and ads are never personalized. We do not knowingly collect personal information from children under 13.
 
 ## Your Choices
 

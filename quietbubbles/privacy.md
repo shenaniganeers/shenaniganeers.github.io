@@ -1,16 +1,16 @@
-# QuietBubbles Privacy Policy
+# Bubble Shooter, Quietly Privacy Policy
 
-**Last updated: October 1, 2026**
+**Last updated: October 2, 2026**
 
-QuietBubbles is made by Shenaniganeers ("we", "us", or "our"). We built this game to collect as little as possible about you. This page explains exactly what that means.
+Bubble Shooter, Quietly (QuietBubbles on your home screen) is made by Shenaniganeers ("we", "us", or "our"). We built this game to collect as little as possible about you. This page explains exactly what that means.
 
 ## What We Collect
 
-We collect nothing ourselves. QuietBubbles has no accounts, no login, and no sign-up. We do not collect your name, email, location, contacts, or photos, and we run no analytics or tracking service of our own. We do not track you across other apps or websites, and the game never asks for permission to.
+We collect nothing ourselves. Bubble Shooter, Quietly has no accounts, no login, and no sign-up. We do not collect your name, email, location, contacts, or photos, and we run no analytics or tracking service of our own. We do not track you across other apps or websites, and the game never asks for permission to.
 
 ## Advertising
 
-Unless you buy Remove Ads Forever, QuietBubbles shows one small banner ad below the play area, supplied by Google AdMob. We ask Google for **non-personalized ads only**: ads chosen from the context of the app and your general location, not from a profile of you. We never give Google access to your device's advertising identifier, and the ads are limited to general-audience content.
+Unless you buy Remove Ads Forever, Bubble Shooter, Quietly shows one small banner ad below the play area, supplied by Google AdMob. We ask Google for **non-personalized ads only**: ads chosen from the context of the app and your general location, not from a profile of you. We never give Google access to your device's advertising identifier, and the ads are limited to general-audience content.
 
 To serve and measure the banner, Google's software receives:
 - Your IP address, used to estimate a general location
@@ -30,7 +30,7 @@ The game saves your progress locally so you can pick up where you left off: your
 
 ## In-App Purchases
 
-QuietBubbles offers optional one-time purchases (Remove Ads Forever, appearance-only skin packs, and expansion packs of additional puzzles) handled entirely by Apple through the App Store. We never see or store your payment details. Apple processes the transaction and tells the app only whether you own a given product.
+Bubble Shooter, Quietly offers optional one-time purchases (Remove Ads Forever, appearance-only skin packs, and expansion packs of additional puzzles) handled entirely by Apple through the App Store. We never see or store your payment details. Apple processes the transaction and tells the app only whether you own a given product.
 
 ## Third-Party Services
 
@@ -40,7 +40,7 @@ QuietBubbles offers optional one-time purchases (Remove Ads Forever, appearance-
 
 ## Children's Privacy
 
-QuietBubbles is rated 4+. The banner is restricted to general-audience ads, and ads are never personalized. We do not knowingly collect personal information from children under 13.
+Bubble Shooter, Quietly is rated 4+. The banner is restricted to general-audience ads, and ads are never personalized. We do not knowingly collect personal information from children under 13.
 
 ## Your Choices
 
