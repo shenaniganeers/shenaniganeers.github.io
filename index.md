@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**Last updated: February 26, 2025**
+**Last updated: October 4, 2026**
 
 Shenaniganeers ("we", "us", or "our") built Moon Finder as a free, ad-supported app. This page informs you of our policies regarding the collection, use, and disclosure of information when you use our app.
 
@@ -21,6 +21,8 @@ Moon Finder displays ads through Google AdMob. Google may collect and use data t
 
 For more information on how Google uses data, please visit [Google's Privacy Policy](https://policies.google.com/privacy) and [How Google Uses Information from Sites or Apps That Use Our Services](https://policies.google.com/technologies/partner-sites).
 
+If you are in the European Economic Area, the United Kingdom, or Switzerland, Moon Finder asks for your consent through Google's consent form before any ad is requested, and ads are shown only as your choice allows. Moon Finder does not use Apple's App Tracking Transparency, so the app never has access to your device's advertising identifier.
+
 ### In-App Purchases
 Purchase transactions for the "Remove Ads" feature are processed entirely by Apple through the App Store. We do not collect, store, or have access to any payment information.
 
@@ -37,6 +39,7 @@ Moon Finder does not knowingly collect personal information from children under 
 
 ## Your Choices
 - **Remove ads**: You can purchase the "Remove Ads" in-app purchase to stop all advertising and the associated data collection by Google AdMob.
+- **Ad consent (EEA, UK, Switzerland)**: You can review or change your choice at any time with the "Privacy Choices" button below Remove Ads in the app.
 - **Location**: You can revoke location permission in your device's Settings at any time. The app will not be able to calculate the moon's position without location access.
 
 ## Changes to This Policy
