@@ -1,8 +1,8 @@
-# Quiet Arrows Privacy Policy <!-- TODO(John): App Store name -->
+# 3D Arrow Puzzle, Quietly Privacy Policy
 
 **Last updated: November 14, 2026** <!-- TODO(John): confirm before ASC -->
 
-Quiet Arrows <!-- TODO(John): App Store name --> (QuietArrows on your home screen) is a portrait puzzle game made by Shenaniganeers ("we", "us", or "our"). Bent arrows lie on the faces of a translucent solid; tap one and it leaves if its path is clear. We built this game to collect as little as possible about you. This page explains exactly what that means.
+3D Arrow Puzzle, Quietly (QuietArrows on your home screen) is a portrait puzzle game made by Shenaniganeers ("we", "us", or "our"). Bent arrows lie on the faces of a translucent solid; tap one and it leaves if its path is clear. We built this game to collect as little as possible about you. This page explains exactly what that means.
 
 ## What We Collect
 
@@ -42,7 +42,7 @@ Quiet Arrows offers three optional one-time purchases that you can restore: Remo
 
 ## Children's Privacy
 
-Quiet Arrows is rated <!-- TODO(John): age rating -->. Ads are never personalized. We do not knowingly collect personal information from children under 13.
+Quiet Arrows is rated 4+ on the App Store. Ads are never personalized. We do not knowingly collect personal information from children under 13.
 
 ## Your Choices
 
