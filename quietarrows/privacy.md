@@ -1,16 +1,16 @@
 # 3D Arrow Puzzle, Quietly Privacy Policy
 
-**Last updated: November 14, 2026** <!-- TODO(John): confirm before ASC -->
+**Last updated: November 20, 2026**
 
 3D Arrow Puzzle, Quietly (QuietArrows on your home screen) is a portrait puzzle game made by Shenaniganeers ("we", "us", or "our"). Bent arrows lie on the faces of a translucent solid; tap one and it leaves if its path is clear. We built this game to collect as little as possible about you. This page explains exactly what that means.
 
 ## What We Collect
 
-We collect nothing ourselves. Quiet Arrows has no accounts, no login, and no sign-up. We do not collect your name, email, precise location, contacts, photos, microphone, or health data, and we run no analytics or tracking service of our own. We do not track you across other apps or websites, and the game never asks for permission to. The app does not use Apple's App Tracking Transparency and never reads your device's advertising identifier.
+We collect nothing ourselves. Quiet Arrows has no accounts, no login, no sign-up, and no servers of our own: there is no backend that receives anything from the app. We do not collect your name, email, precise location, contacts, photos, microphone, or health data, and we run no analytics or tracking service of our own. We do not track you across other apps or websites, and the game never asks for permission to. The app does not use Apple's App Tracking Transparency and never reads your device's advertising identifier.
 
 ## Advertising
 
-Unless you buy Remove Ads, Quiet Arrows shows one small banner ad, supplied by Google AdMob. We ask Google for **non-personalized ads only**: ads chosen from the context of the app and your general location, not from a profile of you.
+Unless you buy Remove Ads, Quiet Arrows shows one small banner ad, supplied by Google AdMob. Until live ads are switched on, the banner shows Google's test ads (or an empty placeholder) and earns nothing; live ads follow the same rules described here, including the consent step below. We ask Google for **non-personalized ads only**: ads chosen from the context of the app and your general location, not from a profile of you.
 
 Where Google requires it, the app asks for your consent through Google's consent form before any ad is requested, and ads are shown only as your choice allows. When Google requires an entry point, Settings shows **Ad privacy choices** so you can review or change your choice at any time. Changing your choices stops the banner.
 
@@ -24,7 +24,7 @@ Google's use of this information is governed by [Google's Privacy Policy](https:
 
 ## Game Center (Optional)
 
-Game Center is **off by default**, and nothing signs in when the app launches. Settings has two separate switches. **Participate** turns on Game Center achievements. **Share Times** lets your ranked and weekly puzzle times be posted to Game Center leaderboards, and it only has an effect when Participate is also on. When both are on, your Game Center player, your achievements, and your times appear on public leaderboards run by Apple Game Center. Turning either switch off stops further sharing.
+Game Center is **off by default**, and nothing signs in when the app launches. Settings has two separate switches. **Game Center** turns on Game Center achievements. **Share my times** lets your ranked and weekly puzzle times be posted to Game Center leaderboards, and it only has an effect when Game Center is also on. You can view leaderboards without sharing. When both are on, your Game Center player, your achievements, and your times appear on public leaderboards run by Apple Game Center. Turning either switch off stops further sharing.
 
 ## What Stays on Your Device
 
@@ -38,7 +38,7 @@ Quiet Arrows offers three optional one-time purchases that you can restore: Remo
 
 - [Google AdMob](https://support.google.com/admob/answer/6128543) — for serving the banner ad
 - [Apple App Store](https://www.apple.com/legal/privacy/) — for processing in-app purchases
-- [Apple Game Center](https://www.apple.com/legal/privacy/) — only if you turn on Participate
+- [Apple Game Center](https://www.apple.com/legal/privacy/) — only if you turn on Game Center
 
 ## Children's Privacy
 
@@ -48,7 +48,7 @@ Quiet Arrows is rated 4+ on the App Store. Ads are never personalized. We do not
 
 - **Remove ads**: Buying Remove Ads removes the banner, and with it every request to Google AdMob.
 - **Ad privacy choices**: Where it is offered, you can review or change your ad consent choice in Settings.
-- **Game Center**: Participate and Share Times are off unless you turn them on, and you can turn either off in Settings at any time.
+- **Game Center**: Game Center and Share my times are off unless you turn them on, and you can turn either off in Settings at any time.
 
 ## Changes to This Policy
 
