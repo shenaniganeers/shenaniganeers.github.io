@@ -1,6 +1,6 @@
 # 3D Arrow Puzzle, Quietly Support
 
-**Last updated: November 20, 2026**
+**Last updated: November 25, 2026**
 
 3D Arrow Puzzle, Quietly (QuietArrows on your home screen) is made by Shenaniganeers. This page answers the common questions. If yours is not here, write to us at the address at the bottom.
 
@@ -24,7 +24,7 @@ Game Center is off by default. Turn on **Game Center** in Settings for achieveme
 
 ## Your Progress
 
-Progress, best times, and settings are stored only on your device. There is no account, so deleting the app deletes your progress; purchases can always be restored.
+Progress, best times, and settings are kept in the app's private storage on your device. We never receive them. Like other app data, they are included in your iPhone's iCloud or computer backup, so they come with you to a new phone. There is no account. Deleting the app deletes your progress from that device; purchases can always be restored.
 
 ## Privacy
 

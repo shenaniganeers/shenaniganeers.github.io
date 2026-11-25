@@ -1,6 +1,6 @@
 # 3D Arrow Puzzle, Quietly Privacy Policy
 
-**Last updated: November 20, 2026**
+**Last updated: November 25, 2026**
 
 3D Arrow Puzzle, Quietly (QuietArrows on your home screen) is a portrait puzzle game made by Shenaniganeers ("we", "us", or "our"). Bent arrows lie on the faces of a translucent solid; tap one and it leaves if its path is clear. We built this game to collect as little as possible about you. This page explains exactly what that means.
 
@@ -26,9 +26,9 @@ Google's use of this information is governed by [Google's Privacy Policy](https:
 
 Game Center is **off by default**, and nothing signs in when the app launches. Settings has two separate switches. **Game Center** turns on Game Center achievements. **Share my times** lets your ranked and weekly puzzle times be posted to Game Center leaderboards, and it only has an effect when Game Center is also on. You can view leaderboards without sharing. When both are on, your Game Center player, your achievements, and your times appear on public leaderboards run by Apple Game Center. Turning either switch off stops further sharing.
 
-## What Stays on Your Device
+## What Is Stored on Your Device
 
-The game saves your progress locally so you can pick up where you left off: your level progress and current collection and level, your best times and stars, your settings (arrow width and appearance/theme), your Game Center switches, and which one-time purchases you own. All of this is stored only on your device. It is never uploaded to us or anyone else. Deleting the app deletes it.
+The game saves your progress locally so you can pick up where you left off: your level progress and current collection and level, your best times and stars, your settings (arrow width and appearance/theme), your Game Center switches, and which one-time purchases you own. All of this is kept in the app's private storage on your device. We never receive it. The game has no server of our own and never sends your progress, times, settings, or purchases to us. Like other app data, it is included in your iPhone's iCloud or computer backup, so it comes with you to a new phone. Deleting the app deletes it from that device.
 
 ## In-App Purchases
 
