@@ -1,6 +1,6 @@
 # Bubble Shooter, Quietly Privacy Policy
 
-**Last updated: October 2, 2026**
+**Last updated: November 25, 2026**
 
 Bubble Shooter, Quietly (QuietBubbles on your home screen) is made by Shenaniganeers ("we", "us", or "our"). We built this game to collect as little as possible about you. This page explains exactly what that means.
 
@@ -24,9 +24,9 @@ Google's use of this information is governed by [Google's Privacy Policy](https:
 
 If you beat a level in fewer shots than our best known solution, the game can send that solution to us so it can become the level's new three-star target. This is **off by default** and only happens if you turn it on in Settings. When it is on, each submission contains the level, your winning shots, and the version of the game, stored in Apple's iCloud (CloudKit) public database. If you choose the "signed" option, it also includes your Game Center display name so we can credit you on that level. Turning sharing off stops all further submissions.
 
-## What Stays on Your Device
+## What Is Stored on Your Device
 
-The game saves your progress locally so you can pick up where you left off: your level progress and scores, your settings and selected bubble skin, and which one-time purchases you own. All of this lives in the app's private on-device storage. It is never uploaded to us or anyone else. Deleting the app deletes it.
+The game saves your progress locally so you can pick up where you left off: your level progress and scores, your settings and selected bubble skin, and which one-time purchases you own. All of this is kept in the app's private storage on your device. We never receive it. The game never sends this save data to us or anyone else. Like other app data, it is included in your iPhone's iCloud or computer backup, so it comes with you to a new phone. Deleting the app deletes it from that device.
 
 ## In-App Purchases
 
